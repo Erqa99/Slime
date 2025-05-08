@@ -43,37 +43,37 @@
 }
 
 /* === スライムのスタイル === */
-.cell.R1 { background-image: url("photo/IMG_E1813.jpg"); }
-.cell.R2 { background-image: url("photo/IMG_E1814.jpg"); }
-.cell.R3 { background-image: url("photo/IMG_E1815.jpg"); }
-.cell.R4 { background-image: url("photo/IMG_E1816.jpg"); }
-.cell.R5 { background-image: url("photo/IMG_E1817.jpg"); }
-.cell.R6 { background-image: url("photo/IMG_E1818.jpg"); }
-.cell.R7 { background-image: url("photo/IMG_E1819.JPG"); }
+.cell.R1 { background-image: url("./photo/IMG_E1813.jpg"); }
+.cell.R2 { background-image: url("./photo/IMG_E1814.jpg"); }
+.cell.R3 { background-image: url("./photo/IMG_E1815.jpg"); }
+.cell.R4 { background-image: url("./photo/IMG_E1816.jpg"); }
+.cell.R5 { background-image: url("./photo/IMG_E1817.jpg"); }
+.cell.R6 { background-image: url("./photo/IMG_E1818.jpg"); }
+.cell.R7 { background-image: url("./photo/IMG_E1819.JPG"); }
 
-.cell.G1 { background-image: url("photo/IMG_E1820.jpg"); }
-.cell.G2 { background-image: url("photo/IMG_E1821.jpg"); }
-.cell.G3 { background-image: url("photo/IMG_E1822.jpg"); }
-.cell.G4 { background-image: url("photo/IMG_E1823.jpg"); }
-.cell.G5 { background-image: url("photo/IMG_E1824.jpg"); }
-.cell.G6 { background-image: url("photo/IMG_E1825.jpg"); }
-.cell.G7 { background-image: url("photo/IMG_E1826.jpg"); }
+.cell.G1 { background-image: url("./photo/IMG_E1820.jpg"); }
+.cell.G2 { background-image: url("./photo/IMG_E1821.jpg"); }
+.cell.G3 { background-image: url("./photo/IMG_E1822.jpg"); }
+.cell.G4 { background-image: url("./photo/IMG_E1823.jpg"); }
+.cell.G5 { background-image: url("./photo/IMG_E1824.jpg"); }
+.cell.G6 { background-image: url("./photo/IMG_E1825.jpg"); }
+.cell.G7 { background-image: url("./photo/IMG_E1826.jpg"); }
 
-.cell.B1 { background-image: url("photo/IMG_E1827.jpg"); }
-.cell.B2 { background-image: url("photo/IMG_E1828.jpg"); }
-.cell.B3 { background-image: url("photo/IMG_E1829.jpg"); }
-.cell.B4 { background-image: url("photo/IMG_E1830.jpg"); }
-.cell.B5 { background-image: url("photo/IMG_E1831.jpg"); }
-.cell.B6 { background-image: url("photo/IMG_E1832.jpg"); }
-.cell.B7 { background-image: url("photo/IMG_E1833.jpg"); }
+.cell.B1 { background-image: url("./photo/IMG_E1827.jpg"); }
+.cell.B2 { background-image: url("./photo/IMG_E1828.jpg"); }
+.cell.B3 { background-image: url("./photo/IMG_E1829.jpg"); }
+.cell.B4 { background-image: url("./photo/IMG_E1830.jpg"); }
+.cell.B5 { background-image: url("./photo/IMG_E1831.jpg"); }
+.cell.B6 { background-image: url("./photo/IMG_E1832.jpg"); }
+.cell.B7 { background-image: url("./photo/IMG_E1833.jpg"); }
 
-.cell.Y1 { background-image: url("photo/IMG_E1834.jpg"); }
-.cell.Y2 { background-image: url("photo/IMG_E1835.jpg"); }
-.cell.Y3 { background-image: url("photo/IMG_E1836.jpg"); }
-.cell.Y4 { background-image: url("photo/IMG_E1837.jpg"); }
-.cell.Y5 { background-image: url("photo/IMG_E1838.jpg"); }
-.cell.Y6 { background-image: url("photo/IMG_E1839.jpg"); }
-.cell.Y7 { background-image: url("photo/IMG_E1840.jpg"); }
+.cell.Y1 { background-image: url("./photo/IMG_E1834.jpg"); }
+.cell.Y2 { background-image: url("./photo/IMG_E1835.jpg"); }
+.cell.Y3 { background-image: url("./photo/IMG_E1836.jpg"); }
+.cell.Y4 { background-image: url("./photo/IMG_E1837.jpg"); }
+.cell.Y5 { background-image: url("./photo/IMG_E1838.jpg"); }
+.cell.Y6 { background-image: url("./photo/IMG_E1839.jpg"); }
+.cell.Y7 { background-image: url("./photo/IMG_E1840.jpg"); }
 
 .cell .level {
   position: absolute;
