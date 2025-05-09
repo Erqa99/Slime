@@ -43,7 +43,11 @@
 }
 
 /* === スライムのスタイル === */
+<<<<<<< HEAD
 .cell.R1 { background-image: url("/Slime/photo/IMG_E1813.JPG"); }
+=======
+.cell.R1 { background-image: url("photo/IMG_E1813.JPG"); }
+>>>>>>> 795198773fcfae435a2f354434ed8d6dd6d9ed38
 .cell.R2 { background-image: url("./photo/IMG_E1814.jpg"); }
 .cell.R3 { background-image: url("./photo/IMG_E1815.jpg"); }
 .cell.R4 { background-image: url("./photo/IMG_E1816.jpg"); }
